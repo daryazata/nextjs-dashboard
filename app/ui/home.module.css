@@ -1,0 +1,11 @@
+.share {
+  height: 0;
+  width: 0;
+  border-bottom: 30px solid rgb(184, 66, 66);
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+}
+
+.fontLu {
+  font-size: 20px;
+}
